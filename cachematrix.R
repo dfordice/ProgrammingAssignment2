@@ -55,3 +55,5 @@ cacheSolve <- function(x, ...) {
         ## print the solution 's'
         s
 }
+
+##
